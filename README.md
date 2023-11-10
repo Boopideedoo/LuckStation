@@ -1,3 +1,18 @@
+## /L/Station adopted codebase from TG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## /tg/station codebase
 
 [![Build Status](https://github.com/tgstation/tgstation/workflows/CI%20Suite/badge.svg)](https://github.com/tgstation/tgstation/actions?query=workflow%3A%22CI+Suite%22)
